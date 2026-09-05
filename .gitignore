@@ -1,0 +1,7 @@
+.env.local
+node_modules
+dist
+src/convex/_generated
+paddleocr-service/__pycache__
+paddleocr-service/.venv
+*.py[cod]

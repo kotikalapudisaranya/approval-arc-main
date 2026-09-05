@@ -1,0 +1,5 @@
+fastapi>=0.115
+httpx>=0.27
+paddleocr>=3.0.0
+paddlepaddle>=3.0.0
+uvicorn[standard]>=0.30
